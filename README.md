@@ -1,6 +1,8 @@
 ## Hi there 👋陆伯言
 
 ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=Lu-Boyan&show_icons=true&theme=dark&count_private=true&include_all_commits=true&hide_rank=false)
+![GitHub Skyline](https://skyline.github.com/Lu-Boyan/2022)
+
 
 ### About me
 
