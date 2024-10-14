@@ -1,6 +1,6 @@
 ## Hi there 👋陆伯言
 
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=Lu-Boyan&show_icons=true&theme=dark&count_private=true)
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=Lu-Boyan&show_icons=true&theme=dark&count_private=true&include_orgs=true)
 
 ### About me
 
@@ -13,4 +13,5 @@
 ![Visitor Count](https://komarev.com/ghpvc/?username=Lu-Boyan&color=green)
 
 ### Coding languages I can 'speak' or 'recognize'
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Lu-Boyan&layout=compact)](https://github.com/Lu-Boyan)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Lu-Boyan&layout=compact&count_private=true&include_orgs=true)](https://github.com/Lu-Boyan)
+
