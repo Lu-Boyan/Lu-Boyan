@@ -1,16 +1,16 @@
-## Hi there 👋
+## Hi there 👋陆伯言
 
-<!--
-**Lu-Boyan/Lu-Boyan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=Lu-Boyan&show_icons=true&theme=dark)
 
-Here are some ideas to get you started:
+### About me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🎯 **Focusing on**: nl2sql
+- 🛠️ **Currently learning**: RAG and text-to-sql
+
+📧 Contact me at: [haotingwong@foxmail.com](mailto:haotingwong@foxmail.com)
+
+### Visitors
+![Visitor Count](https://komarev.com/ghpvc/?username=Lu-Boyan&color=green)
+
+### Coding languages I can 'speak' or 'recognize'
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Lu-Boyan&layout=compact)](https://github.com/Lu-Boyan)
