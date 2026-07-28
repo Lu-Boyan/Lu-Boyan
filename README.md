@@ -1,8 +1,9 @@
 ## Hi there 👋陆伯言
-graduated from Fudan University Computer Science
+2023-2026 Fudan University Computer Science
+
+2019-2023 Tongji University Software Engineering
 
 I'm currently working in AI Infra at WizardQuant.
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=Lu-Boyan&show_icons=true&theme=dark&count_private=true&include_all_commits=true&hide_rank=true)
 
 
 ### About me
