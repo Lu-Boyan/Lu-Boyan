@@ -1,7 +1,7 @@
 ## Hi there 👋陆伯言
-2023-2026 Fudan University Computer Science
+2023-2026 Master of Computer Science, Fudan University
 
-2019-2023 Tongji University Software Engineering
+2019-2023 Bachelor of Software Engineering, Tongji University
 
 I'm currently working in AI Infra at WizardQuant.
 
